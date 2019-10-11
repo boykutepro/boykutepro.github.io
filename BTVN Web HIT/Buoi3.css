@@ -1,0 +1,109 @@
+.line1{
+    width: 100%;
+    height: 50px;
+    background: pink;
+    margin-bottom: 10px;
+}
+.line2{
+    width: 100%;
+    height: 300px;
+    display: flex;
+    margin-bottom: 29px;
+}
+.line3{
+    width: 100%;
+    height: 45px;
+    background: black;
+}
+.line2_1{
+    width: 60%;
+    height: 100%;
+    margin-right: 9px;
+}
+.line2_2{
+    width: 40%;
+    height: 100%;
+}
+.green1{
+    width: 100%;
+    height: 50%;
+    background: rgb(122, 197, 46);
+    margin-bottom: 9px;
+}
+.line2_1_2{
+    width: 100%;
+    height: 50%;
+    display: flex;
+    margin-bottom: 9px;
+}
+.column2_1{
+    width: 50%;
+    height: 100%;
+    margin-right: 9px;
+}
+.purple{
+    width: 50%;
+    height: 107%;
+    background: purple;
+}
+.red1{
+    width: 100%;
+    height: 35%;
+    background: red;
+    margin-bottom: 10px;
+}
+.orange{
+    width: 100%;
+    height: 65%;
+    background: orange;
+}
+.purgreen{
+    width: 100%;
+    height: 15%;
+    display: flex;
+    margin-bottom: 8px;
+}
+.pur{
+    width: 75%;
+    height: 90%;
+    background: purple;
+}
+.gre{
+    width: 25%;
+    height: 90%;
+    background: green;
+}
+.yello{
+    width: 100%;
+    height: 13%;
+    background: yellowgreen;
+    margin-bottom: 9px;
+}
+.brb{
+    width: 100%;
+    height: 56%;
+    display: flex;
+    margin-bottom: 9px;
+}
+.bl1{
+    width: 33%;
+    height: 100%;
+    background: blue;
+    margin-right: 9px;
+}
+.red2{
+    width: 34%;
+    height: 100%;
+    background: red;
+}
+.bl2{
+    width: 33%;
+    height: 100%;
+    background: blue;
+    margin-left: 9px;
+}
+.brown{
+    width: 100%;
+    height: 14%;
+    background: burlywood;
+}
